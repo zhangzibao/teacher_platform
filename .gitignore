@@ -1,11 +1,11 @@
 /target/
 
 ### packages ###
-node_modules
-dist
+node_modules/
+dist/
 
 ### IntelliJ IDEA ###
-.idea
+.idea/
 *.iws
 *.iml
 *.ipr
